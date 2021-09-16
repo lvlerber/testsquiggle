@@ -1,0 +1,18 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "idf.portWin": "COM10",
+  "C_Cpp.errorSquiggles": "Enabled",
+  "cmake.configureOnOpen": false,
+  "files.associations": {
+    "exception": "cpp",
+    "stdexcept": "cpp"
+  }
+}
